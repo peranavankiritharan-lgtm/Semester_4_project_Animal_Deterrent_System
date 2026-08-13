@@ -25,6 +25,6 @@ Using LabVIEW, we engineered a multi tiered response logic. Based on the animal 
 
 
 **Team members:**
-Sethum Perera 
-Thimeshi Nipunika 
+Sethum Perera, 
+Thimeshi Nipunika,  
 Peranavan Kiritharan
